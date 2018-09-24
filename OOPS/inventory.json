@@ -1,0 +1,17 @@
+{
+    "Rice": {
+        "name": "Basumathi",
+        "weight": 10,
+        "price": 12
+    },
+    "Wheat": {
+        "name": "Atta",
+        "weight": 10,
+        "price": 10
+    },
+    "pulses": {
+        "name": "Daal",
+        "weight": 10,
+        "price": 9
+    }
+}
